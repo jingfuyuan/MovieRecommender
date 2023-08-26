@@ -12,3 +12,4 @@ Read the Jupyter Notebooks for details
 - built neural networks with TensorFlow to do collaborative filtering
 - did maxtrix factorization with Spark on AWS EMR
 - build neural networks with PyTorch, trained and deployed the model on SageMaker to do movie recommendation
+- used Graph Neural Networks (GNN) to solve the movie recommendation problem. I build the GNNs with PyG (Pytorch Geometric)
